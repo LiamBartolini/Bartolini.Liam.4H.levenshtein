@@ -1,17 +1,20 @@
 # Levenshtein
+Calcola la distanza in _operazioni basiliari_ tra due parole  
+```
+operazioni basilari: 
+- Aggiunta di un carattere
+- Eliminazione di un carattere
+- Sostituzione di un carattere con un altro
+```
 
-## Calcolo della distanza di levenshtein
-> - Permette data una parola in input cercare la parola con la distanza minore tra quelle salvate, stampandola con la sua distanza
-![image](https://user-images.githubusercontent.com/65280914/117939966-e0f20600-b308-11eb-8370-ef82072cce51.png)  
+## Distanza
+>[![Animazione del calcolo](https://user-images.githubusercontent.com/65280914/118781449-5f145680-b88d-11eb-8d8d-3e27df71557a.gif)](https://it.wikipedia.org/wiki/Distanza_di_Levenshtein)
 
-## Output del Programma
-> ![image](https://user-images.githubusercontent.com/65280914/117940155-126ad180-b309-11eb-92f3-8fd4bddf3c1d.png)
+### Credits
+[@github/LiamBartolini](https://github/LiamBartolini)  
+[@github/silkfire/Pastel](https://github.com/silkfire/Pastel)
 
-## Stampa matrice
-> - Fa una stampa dinamica ogni 700ms aggiorna lo schermo evidenziando il numero che aveva calcolato
-![image](https://user-images.githubusercontent.com/65280914/117941521-76da6080-b30a-11eb-9fd8-229d91e7445c.png)
-
-## Libreria Pastel
-Credit © to silkfire on github [Repository](https://github.com/silkfire/Pastel)
-
-Scritto da [`Liam Bartolini`](https://github/LiamBartolini)
+### Conclusioni
+Lasciate una ⭐  
+Seguitemi:
+ - [<img align="left" alt="piyushmehta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram/bartolini_liam)
